@@ -1,0 +1,10 @@
+# Instala primeiro a versão CUDA adequada do PyTorch; consulta o README.md.
+torch==2.14.1
+torchvision==0.29.1
+pytorch-lightning>=2.4,<3
+torchmetrics>=1.4,<2
+numpy>=1.26,<3
+pandas>=2,<4
+matplotlib>=3.8,<4
+scikit-learn>=1.4,<2
+ipykernel>=6,<8
